@@ -1,0 +1,24 @@
+The top 20 topNGrams1 are: 
+but:68587
+What I observe here is that in this top 20 Ngrams1: the most frequent occuring 1grams are prepositions-
+a:196340
+im:94586
+in:112410
+for:111119
+i:400691
+is:124023
+it:120709
+my:167269
+the:271208
+that:73935
+and:156172
+of:95499
+me:84218
+have:76206
+to:297018
+so:79928
+just:65570
+you:136436
+on:87099
+
+Also most of the 4ngrams start with i. This means that most of the tweets are the subject oriented.

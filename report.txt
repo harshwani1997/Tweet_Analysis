@@ -1,0 +1,432 @@
+The top 20 hashtags are: 
+1 #fb
+2 #squarespace
+3 #followfriday
+4 #seb-day
+5 #1
+6 #iranelection
+7 #musicmonday
+8 #marsiscoming
+9 #BSB
+10 #fail
+11 #andyhurleyday
+12 #mcflyforgermany
+13 #myweakness
+14 #iremember
+15 #FF
+16 #2
+17 #bgt
+18 #FollowFriday
+19 #trackle
+20 #asot400
+
+The top 20 atTheRates are: 
+1 @mileycyrus
+2 @tommcfly
+3 @ddlovato
+4 @Jonasbrothers
+5 @DavidArchie
+6 @JonathanRKnight
+7 @jordanknight
+8 @taylorswift13
+9 @DonnieWahlberg
+10 @mitchelmusso
+11 @jonasbrothers
+12 @selenagomez
+13 @dougiemcfly
+14 @aplusk
+15 @peterfacinelli
+16 @joeymcintyre
+17 @gfalcone601
+18 @YoungQ
+19 @Dannymcfly
+20 @shaundiviney
+
+The top 20 topNGrams1 are: 
+but:68587
+a:196340
+im:94586
+in:112410
+for:111119
+i:400691
+is:124023
+it:120709
+my:167269
+the:271208
+that:73935
+and:156172
+of:95499
+me:84218
+have:76206
+to:297018
+so:79928
+just:65570
+you:136436
+on:87099
+
+The top 20 topNGrams2 are: 
+i was:15423
+i cant:15067
+want to:12090
+for the:17603
+i think:12728
+have to:15445
+and i:14689
+i love:14521
+have a:14565
+but i:14363
+to the:15596
+i am:18166
+going to:22798
+i dont:17566
+on the:16547
+to go:15866
+in the:23883
+to be:15991
+i have:23653
+of the:13033
+
+The top 20 topNGrams3 are: 
+going to be:3170
+thanks for the:2834
+looking forward to:2729
+is going to:2520
+i have a:3946
+im going to:3989
+want to go:2495
+i dont know:2965
+i have to:6186
+wish i was:2357
+dont want to:2355
+i miss you:2349
+i want to:4601
+wish i could:3320
+i love you:2625
+cant wait to:2553
+i need to:3221
+i wish i:4848
+i think i:2735
+to go to:5341
+
+The top 20 topNGrams4 are: 
+just got back from:886
+you are on the:788
+is going to be:913
+on the train or:775
+once you add everyone:773
+i have to go:958
+on my way to:1040
+add everyone you are:773
+sorry to hear that:783
+i wish i could:1805
+cant wait to see:1052
+to go to work:807
+get 100 followers a:773
+everyone you are on:773
+have to go to:809
+to go to the:1035
+want to go to:984
+i wish i was:1262
+i want to go:957
+i dont want to:1441
+
+The top 20 topNounNGrams1 are: 
+love:31716
+haha:15381
+im:94586
+need:17611
+work:33336
+night:21271
+lol:28420
+tomorrow:16878
+cant:33786
+hope:17098
+home:20765
+morning:17267
+thanks:18719
+twitter:15660
+u:27161
+today:34571
+time:29222
+day:42594
+dont:36330
+thats:15861
+
+The top 20 topNounNGrams2 are: 
+im gonna:3686
+work tomorrow:1152
+lol im:1010
+im work:1285
+r u:924
+day today:1259
+today im:969
+dont wanna:1695
+today day:1150
+cant sleep:2447
+work today:1315
+movie awards:964
+cant wait:6344
+day work:1026
+ice cream:1276
+im im:1689
+im home:1258
+im bed:935
+mothers day:1404
+im feeling:957
+
+The top 20 topNounNGrams3 are: 
+followers day wwwtweeteraddercom:260
+day wwwtweeteraddercom everyone:260
+work work work:153
+train pay vip:773
+love love love:160
+story ch wwwiamsoannoyedcom:130
+dont wanna work:231
+cant wait home:145
+mtv movie awards:844
+wwwtweeteraddercom everyone train:260
+ha ha ha:131
+cant sleep im:131
+sebday sebday sebday:215
+air france flight:138
+everyone train pay:773
+cant wait til:182
+followers day wwwtweeterfollowcom:513
+day wwwtweeterfollowcom everyone:513
+wwwtweeterfollowcom everyone train:513
+new moon trailer:142
+
+The top 20 topNounNGrams4 are: 
+sebday sebday sebday sebday:195
+birthday roni mickeyquot plz:47
+followers day wwwtweeteraddercom everyone:260
+money shareholder dividends nothing:60
+limit story ch wwwiamsoannoyedcom:130
+wwwtweeteraddercom everyone train pay:260
+ch wwwiamsoannoyedcom help stress:80
+roni mickeyquot plz plz:47
+everyone train pay vip:773
+mtv movie awards tonight:76
+quothappy birthday roni mickeyquot:47
+wwwtweeterfollowcom everyone train pay:513
+wwwm2easia money shareholder dividends:60
+day wwwtweeteraddercom everyone train:260
+followers day wwwtweeterfollowcom everyone:513
+watch mtv movie awards:99
+plz quothappy birthday roni:47
+day wwwtweeterfollowcom everyone train:513
+story ch wwwiamsoannoyedcom help:80
+mcflyforgermany mcflyforgermany mcflyforgermany mcflyforgermany:77
+
+The top 10 POS Patterns for adjective noun are: 
+important todo:1
+favorite remix:1
+underdeveloped times:1
+lucky babe:1
+healthy kids:1
+good graduation:1
+regular downloadurl:1
+commercial nahhh:1
+present state:1
+happy mumma:1
+
+The top 10 POS Patterns for det noun are: 
+a woodwind:1
+some britney:1
+la hole:1
+the supstitutes:1
+the redlands:1
+a dizer:1
+the shoes:1
+the quotifsquot:1
+a samich:1
+what wasi:1
+
+The top 10 POS Patterns for verb noun are: 
+misssed tonites:1
+ate kaila:1
+put yo:1
+quottaking livesquot:1
+making weve:1
+hear picasso:1
+played thesims3:1
+see gotta:1
+going splat:1
+bing ms:1
+
+The top 20 topPosNGrams1 are: 
+a:93430
+im:35473
+in:47371
+for:54963
+i:136934
+is:51372
+it:52674
+my:59294
+the:125007
+that:32499
+with:31029
+and:69933
+of:42860
+me:32598
+have:29258
+to:119422
+so:30401
+just:29372
+you:82624
+on:39565
+
+The top 20 topPosNGrams2 are: 
+a good:5142
+for the:10139
+i think:5631
+i love:10528
+thank you:5549
+it was:4774
+have a:7637
+to see:5239
+to the:6820
+cant wait:4804
+i am:7257
+going to:10000
+on the:7993
+for a:4792
+in the:10288
+to be:5718
+thanks for:5036
+at the:4860
+i have:6624
+of the:6009
+
+The top 20 topPosNGrams3 are: 
+thanks for the:2463
+looking forward to:1540
+going to be:1160
+i cant wait:1264
+cant wait for:1175
+is going to:1044
+i have a:1169
+im going to:1693
+i have to:1007
+thank you for:966
+i want to:1059
+cant wait to:1956
+i love you:1711
+you have a:983
+a great day:1095
+how are you:1236
+i think i:966
+to go to:1250
+wait to see:955
+have a great:1343
+
+The top 20 topPosNGrams4 are: 
+just got back from:484
+you are on the:784
+on the train or:773
+you add everyone you:773
+once you add everyone:773
+wwwtweeterfollowcom once you add:513
+followers a day using:773
+have a great day:574
+add everyone you are:773
+the train or pay:773
+train or pay vip:773
+cant wait to see:881
+i cant wait to:508
+get 100 followers a:773
+a day using wwwtweeterfollowcom:513
+everyone you are on:773
+using wwwtweeterfollowcom once you:513
+are on the train:773
+100 followers a day:773
+day using wwwtweeterfollowcom once:513
+
+The top 20 topNegNGrams1 are: 
+but:46576
+a:102910
+im:59113
+in:65039
+for:56156
+i:263757
+is:72651
+it:68035
+my:107975
+the:146201
+that:41436
+not:41954
+and:86239
+of:52639
+me:51620
+have:46948
+to:177596
+so:49527
+you:53812
+on:47534
+
+The top 20 topNegNGrams2 are: 
+i want:8199
+i cant:12221
+i was:10814
+want to:9129
+have to:11667
+and i:10043
+go to:7645
+to get:7614
+but i:10256
+i miss:9647
+to the:8776
+i am:10909
+i dont:13831
+going to:12798
+to go:11483
+on the:8554
+in the:13595
+to be:10273
+wish i:7775
+i have:17029
+
+The top 20 topNegNGrams3 are: 
+have to go:1521
+going to be:2010
+i have a:2777
+im going to:2296
+want to go:2201
+i dont have:1908
+i dont know:2269
+i miss my:2010
+i have to:5179
+wish i was:2106
+dont want to:2091
+i miss you:1986
+i want to:3542
+wish i could:2933
+i need to:2376
+i feel like:1521
+i wish i:4358
+i think i:1769
+to go to:4091
+i dont want:1847
+
+The top 20 topNegNGrams4 are: 
+is going to be:553
+to go back to:597
+i have to go:807
+on my way to:558
+sorry to hear that:742
+now i have to:463
+i wish i could:1624
+to go to work:736
+i dont know what:515
+dont want to go:576
+have to go to:695
+i have to work:519
+to go to the:784
+i wish i had:643
+wish i could go:465
+want to go to:876
+i wish i was:1154
+not looking forward to:593
+i want to go:838
+i dont want to:1300
+

@@ -1,0 +1,432 @@
+The top 20 hashtags are: 
+1 #fb
+2 #Sci-Five?
+3 #iphone
+4 #1:
+5 #bludget
+6 #itm
+7 #...We
+8 #spotify
+9 #AdTech
+10 #B09
+11 #publicwhip
+12 #24
+13 #gayforpeavy
+14 #2:
+15 #TTSC?
+16 #wv09
+17 #gmail?
+18 #STAtravel
+19 #3
+20 #Heroes
+
+The top 20 atTheRates are: 
+1 @stephenkruiser
+2 @JonathanRKnight
+3 @dougiemcfly
+4 @heidimontag
+5 @mileycyrus
+6 @ddlovato
+7 @DonnieWahlberg
+8 @Schofe
+9 @Steve_Buscemi
+10 @nicolerichie
+11 @nick_carter
+12 @sian_the_mouse
+13 @David_Henrie
+14 @rustyrockets
+15 @jemcam
+16 @mpesce
+17 @SaphInfection
+18 @MinaMeow
+19 @plutobob
+20 @SarahSaner
+
+The top 20 topNGrams1 are: 
+but:165
+a:470
+im:232
+in:279
+for:308
+i:952
+is:324
+it:315
+my:407
+the:644
+that:203
+at:146
+and:397
+of:222
+me:201
+have:177
+to:722
+so:187
+you:360
+on:180
+
+The top 20 topNGrams2 are: 
+i just:27
+i was:42
+i cant:34
+for the:43
+i think:28
+have to:42
+and i:34
+i love:33
+have a:34
+to the:30
+i am:36
+going to:55
+i dont:50
+on the:36
+to go:30
+in the:63
+to be:34
+at the:28
+i have:64
+of the:32
+
+The top 20 topNGrams3 are: 
+i dont like:6
+going to be:8
+looking forward to:7
+is going to:11
+i have a:9
+going to bed:9
+to hear that:7
+sorry to hear:11
+i dont know:7
+i miss my:6
+i have to:22
+dont want to:9
+i want to:8
+cant wait to:7
+i need to:14
+in the world:7
+i feel like:8
+i wish i:7
+to go to:11
+i dont want:10
+
+The top 20 topNGrams4 are: 
+sorry to hear about:6
+bday xp haa xd:4
+that some celebrities wish:4
+bday yay i wish:4
+me happy bday xp:4
+got bday yay i:4
+celebrities wish me happy:4
+wish me happy bday:4
+so sorry to hear:5
+xp haa xd itll:4
+sorry to hear that:5
+cant wait to see:4
+i wish that some:4
+wish that some celebrities:4
+ive got bday yay:4
+happy bday xp haa:4
+haa xd itll never:4
+to hear about your:5
+i dont want to:8
+xd itll never happen:4
+
+The top 20 topNounNGrams1 are: 
+love:68
+im:232
+need:42
+work:78
+night:63
+tomorrow:51
+lol:50
+cant:81
+hope:47
+morning:55
+home:43
+sleep:61
+thanks:49
+twitter:46
+u:57
+today:69
+ive:42
+time:89
+day:96
+dont:90
+
+The top 20 topNounNGrams2 are: 
+im gonna:7
+ive bday:4
+yay wish:4
+bed time:4
+bday xp:4
+day today:5
+today im:4
+im dont:5
+im youre:4
+dont im:4
+cant sleep:12
+cant wait:16
+ice cream:4
+wish bday:4
+time bed:4
+celebrities wish:4
+im bed:4
+xd itll:4
+morning everyone:4
+xp haa:4
+
+The top 20 topNounNGrams3 are: 
+morning bah car:2
+guys everyone add:2
+bah car wont:2
+wish bday xp:4
+twitter worksshouldnt lol:2
+ive bday yay:4
+bday yay wish:4
+today ive bday:3
+brent praise band:2
+bday xp haa:4
+im dont sleep:2
+haa xd itll:4
+yay wish celebrities:4
+xp haa xd:4
+im company female:2
+work twitter worksshouldnt:2
+wish celebrities wish:4
+shit today im:2
+celebrities wish bday:4
+band fun lead:2
+
+The top 20 topNounNGrams4 are: 
+bday xp haa xd:4
+bday yay wish celebrities:4
+praise band fun lead:2
+hey guys everyone add:2
+april 9th isnt soon:2
+yay wish celebrities wish:4
+bah car wont start:2
+brent praise band fun:2
+morning bah car wont:2
+xp haa xd itll:4
+wish bday xp haa:4
+band fun lead guitarist:2
+wish celebrities wish bday:4
+fun lead guitarist ltpoutgt:2
+today ive bday yay:3
+work twitter worksshouldnt lol:2
+celebrities wish bday xp:4
+car wont start anwb:2
+9th isnt soon enough:2
+ive bday yay wish:4
+
+The top 10 POS Patterns for adjective noun are: 
+new stalker:1
+decent exchange:1
+novel manuscript:1
+anti spyware:1
+new mantra:1
+glad taylors:1
+same gig:1
+big things:1
+least someone:1
+brilliant idea:1
+
+The top 10 POS Patterns for det noun are: 
+all reading:1
+the burswood:1
+the wonders:1
+the exception:1
+a couple:1
+the day:1
+another cinderella:1
+this morning:1
+these things:1
+no help:1
+
+The top 10 POS Patterns for verb noun are: 
+taking wayyy:1
+keep reading:1
+ironing fave:1
+was half:1
+called block:1
+done today:1
+knocked outi:1
+integrate twitter:1
+is soo:1
+realize spotify:1
+
+The top 20 topPosNGrams1 are: 
+a:252
+im:93
+in:130
+for:165
+i:371
+is:143
+it:170
+my:155
+good:85
+the:313
+that:101
+with:70
+and:194
+of:108
+me:88
+have:83
+to:355
+so:75
+you:230
+on:99
+
+The top 20 topPosNGrams2 are: 
+a good:16
+for the:20
+good morning:13
+i think:14
+have to:16
+i love:25
+thank you:16
+i will:16
+have a:21
+to see:15
+good night:14
+i am:17
+going to:28
+on the:17
+is a:14
+in the:33
+to be:17
+thanks for:16
+i have:30
+of the:16
+
+The top 20 topPosNGrams3 are: 
+me happy bday:4
+going to be:5
+thanks for the:5
+looking forward to:4
+some celebrities wish:4
+is going to:5
+ive got bday:4
+im going to:5
+have a good:5
+good luck with:4
+xd itll never:4
+yay i wish:4
+i wish that:4
+i have to:8
+cant wait to:5
+haa xd itll:4
+i need to:6
+if you want:5
+a great day:4
+wait to see:4
+
+The top 20 topPosNGrams4 are: 
+bday xp haa xd:4
+that some celebrities wish:4
+bday yay i wish:4
+me happy bday xp:4
+today ive got bday:3
+celebrities wish me happy:4
+got bday yay i:4
+some celebrities wish me:4
+wish me happy bday:4
+to be in your:2
+xp haa xd itll:4
+cant wait to see:4
+i wish that some:4
+wish that some celebrities:4
+ive got bday yay:4
+happy bday xp haa:4
+is well with you:2
+haa xd itll never:4
+xd itll never happen:4
+yay i wish that:4
+
+The top 20 topNegNGrams1 are: 
+but:98
+a:218
+im:139
+in:149
+for:143
+was:90
+i:581
+is:181
+it:145
+my:252
+the:331
+that:102
+not:83
+and:203
+of:114
+me:113
+have:94
+to:367
+so:112
+you:130
+
+The top 20 topNegNGrams2 are: 
+im so:21
+i hate:21
+i feel:20
+i just:17
+i was:30
+i cant:21
+want to:19
+for the:23
+have to:26
+and i:22
+i need:19
+i miss:23
+i am:19
+i dont:37
+going to:27
+on the:19
+to go:17
+in the:30
+to be:17
+i have:34
+
+The top 20 topNegNGrams3 are: 
+is going to:6
+i dont think:6
+i have a:6
+to hear about:6
+im so sorry:6
+to hear that:5
+sorry to hear:10
+i dont know:6
+i miss my:5
+i have to:14
+dont want to:7
+i know i:5
+i want to:6
+hear about your:5
+i need to:8
+in the world:7
+i feel like:7
+i wish i:6
+to go to:8
+i dont want:7
+
+The top 20 topNegNGrams4 are: 
+sorry to hear about:6
+going to have a:3
+hear about your dog:3
+i cant find it:3
+my macbook just fell:3
+car wont start waiting:2
+its going to be:2
+sad that the feet:3
+the feet of my:3
+so sorry to hear:5
+of my macbook just:3
+feet of my macbook:3
+that the feet of:3
+sorry to hear that:4
+my sites put together:2
+i wish i was:3
+to hear about your:5
+macbook just fell off:3
+i dont want to:6
+im so sorry to:3
+
